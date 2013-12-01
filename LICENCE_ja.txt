@@ -1,29 +1,29 @@
-�Q�[���̒��ɂāA�ȉ��̊y�Ȃ��g�p�����Ă��������Ă��܂��B
-��҂̕��X�ɐS���炨��\���グ�܂��B
+﻿ゲームの中にて、以下の楽曲を使用させていただいています。
+作者の方々に心からお礼申し上げます。
 
-�f�t�H���g��BMS�F
-�f�t�H���g��BMS�Ƃ��āAYamajet�����christmas night���g�p�����Ă��������Ă܂��B
+デフォルトのBMS：
+デフォルトのBMSとして、Yamajetさんのchristmas nightを使用させていただいてます。
 URL:http://www.yamajet.com/
 
-�^�C�g����ʂ̋ȁF
-�^�C�g����ʂ̋ȂƂ��āASHIKI�����ENDLESS DREAMER���g�p�����Ă��������Ă܂��B
+タイトル画面の曲：
+タイトル画面の曲として、SHIKIさんのENDLESS DREAMERを使用させていただいてます。
 URL:http://kobe.cool.ne.jp/linker/fohs.html
 
-���y�I����ʂ̋ȁF
-���y�I����ʂ̋ȂƂ��āASHIKI�����Air���g�p�����Ă��������Ă܂��B
+音楽選択画面の曲：
+音楽選択画面の曲として、SHIKIさんのAirを使用させていただいてます。
 URL:http://kobe.cool.ne.jp/linker/fohs.html
 
 
-�����̌��ʉ��F
-�����̌��ʉ��Ƃ��āA�V���c�W�����`��ULTIMATE�Q�[�����ƕ�����̌��ʉ����g�p�����Ă��������Ă܂��B
+歓声の効果音：
+歓声の効果音として、シュツジンモチ＆ULTIMATEゲーム事業部さんの効果音を使用させていただいてます。
 URL:http://utm-game-web.hp.infoseek.co.jp/index.html
 
-���̑��̌��ʉ��F
-�Q�[���̌��ʉ��Ƃ��āATAM����̌��ʉ����g�p�����Ă��������Ă܂��B
+その他の効果音：
+ゲームの効果音として、TAMさんの効果音を使用させていただいてます。
 URL:http://www.tam-music.com/index.html
 
 
-�܂��菑�����t�H���g�Ƃ��Ĉȉ��̃t�H���g���g�p�����Ă��������܂����B
+また手書き風フォントとして以下のフォントを使用させていただきました。
 
-�菑������������ - ���뎚
+手書き風総合書体 - きろ字
 URL:http://www.ez0.net/distribution/font/kiloji/
